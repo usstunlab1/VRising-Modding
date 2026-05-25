@@ -159,7 +159,7 @@ export default defineConfig({
               items: [
                 { text: 'Entity Query Descriptions', link: '/dev/query-descriptions' },
                 { text: 'System Update Tree',        link: '/dev/systems-tree' },
-				{ text: 'Unused Item Prefabs',		 link: '/dev/unused-item-prefabs' },
+				{ text: 'Unused Item Prefabs',        link: '/dev/unused-item-prefabs' },
               ],
             },
             {
