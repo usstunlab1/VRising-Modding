@@ -62,7 +62,6 @@ Below is a list of items known to be in the game but unused, Please note that th
 | <img width="64" height="64" alt="Poneti_Icon_Alchemy_31_Turquoise_flask" src="https://github.com/user-attachments/assets/9773c01a-6855-4b25-a659-0ffb1f156b54" />| Various Potions | -1617671082 | Item_Ingredient_MapZone_Potions | --- |
 | <img width="64" height="64" alt="FantasyIcon_Flowers (32)" src="https://github.com/user-attachments/assets/5afb1fd4-92e0-4510-8047-e2c67e803b45" />| Various Plants | 968796494 | Item_Ingredient_MapZone_Plants | --- |
 | <img width="64" height="64" alt="FantasyIcon_Food (107)" src="https://github.com/user-attachments/assets/3129c174-27eb-4350-97bb-95be9ec0fe35" />| Fresh Fish | 193249843 | Item_Ingredient_MapZone_Fish | --- |
-| <img width="64" height="64" alt="Poneti_Icon_Cooking_28_fish" src="https://github.com/user-attachments/assets/3bff42a6-8d15-4258-837e-9f2173d2ceba" />| The Fish | 176401052 | Item_Ingredient_Fish_TheFish | --- |
 
 ## Weapon List
 Please note that these may not all have the proper attributes to be useable
