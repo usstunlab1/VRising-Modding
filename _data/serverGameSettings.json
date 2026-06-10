@@ -173,7 +173,7 @@
       { "key": "CastleStatModifiers_Global.NetherGateLimit", "type": "int", "default": "1", "min": "0", "max": "255", "uiName": "", "inUI": false, "description": "Maximum number of Stygian Summoning Circle (Nether Gate) structures per castle." },
       { "key": "CastleStatModifiers_Global.ThroneOfDarknessLimit", "type": "int", "default": "1", "min": "0", "max": "255", "uiName": "Throne of Darkness Limitation", "inUI": true, "description": "Maximum number of Throne of Darkness structures per castle." },
       { "key": "CastleStatModifiers_Global.ArenaStationLimit", "type": "int", "default": "5", "min": "0", "max": "255", "uiName": "", "inUI": false, "description": "Maximum number of Arena Station structures per castle.", "notes": "⚠️ Values above 255 will cause an overflow exception and crash the server. No clamp warning is generated, the server just crashes." },
-      { "key": "CastleStatModifiers_Global.RoutingStationLimit", "type": "int", "default": "10", "min": "0", "max": "255", "uiName": "", "inUI": false, "description": "Maximum number of Routing Station structures per castle.", "notes": "⚠️ Values above 255 will cause an overflow exception and crash the server. No clamp warning is generated, the server just crashes." }
+      { "key": "CastleStatModifiers_Global.RoutingStationLimit", "type": "int", "default": "10", "min": "0", "max": "255", "uiName": "", "inUI": false, "description": "Maximum number of Routing Station connections per engine.", "notes": "⚠️ Values above 255 will cause an overflow exception and crash the server. No clamp warning is generated, the server just crashes." }
     ]
   },
   {
